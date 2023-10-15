@@ -1,0 +1,5 @@
+Final Project:
+Breast Cancer Prediction
+Applying machine learning models to estimate survival outcomes of breast cancer patients
+Supervised by Dr. Ali Sharifi Zarchi
+Homework for Machine Learning Course

@@ -6,20 +6,20 @@ This repository contains practical assignments from the **Introduction to Machin
 
 ## Assignments Overview
 
-The repository is structured into multiple homework folders, each covering specific machine learning topics. Below is the detailed list of assignments:
+The repository is structured into multiple homework folders, each covering specific machine learning topics. Below is the detailed list of assignments. Further details are provided within each notebook.
 
 ### HW2 (Chapters 2 & 3)
 1. **Linear Regression**
    - Implementation of linear regression using Python.
    - File: `1. Linear Regression.ipynb`
-   -  **Dataset**
+   -  **Dataset:**
    - Weather History dataset.
    - File: `weatherHistory.csv`
 
 2. **Decision Trees**
    - Exploration of decision tree algorithms.
    - File: `2. Decision Tree.ipynb`
-   -  **Dataset**
+   -  **Dataset:**
    - Breast cancer classification dataset.
    - File: `breast_cancer.csv`
 3. **Support Vector Machines (SVMs)**
@@ -41,12 +41,12 @@ The repository is structured into multiple homework folders, each covering speci
 2. **Autoencoders**
    - Introduction to unsupervised learning with autoencoders.
    - File: `2. Autoencoder.ipynb`
-   - **Dataset**
+   - **Dataset:**
    - COVID-related data
    - File: `Covid Dataset.csv`
 3. **Recurrent Neural Networks (RNNs)**
    - RNN implementation for sequence data.
    - File: `3. RNN.ipynb`
-    - **Dataset**
+    - **Dataset:**
    - Captions of Flickr images.
    - File: `captions.txt`

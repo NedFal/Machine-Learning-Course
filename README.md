@@ -50,3 +50,16 @@ The repository is structured into multiple homework folders, each covering speci
     - **Dataset:**
    - Captions of Flickr images.
    - File: `captions.txt`
+### Final Project: Breast Cancer Prediction
+
+**Objective:**  
+Applying machine learning models to estimate survival outcomes of breast cancer patients.
+
+**Dataset:**  
+The project uses the **METABRIC RNA Mutation dataset**, which contains RNA mutation data for breast cancer patients.
+
+**Files:**  
+- `ML_Project.ipynb`: Jupyter notebook containing the implementation of the machine learning models.
+- `METABRIC_RNA_Mutation.csv`: Dataset file used for training and evaluation.
+- `Final Project Description.txt`: Short description of the project objectives and methodology.  
+   
